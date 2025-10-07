@@ -14,7 +14,7 @@ A calculadora permite que o usuário insira o peso e a altura, e ao clicar em *C
 ## 🚀 Tecnologias utilizadas
 - *HTML5*
 - *CSS3*
-- *JavaScript (Vanilla)*
+- *JavaScript*
 
 ---
 
